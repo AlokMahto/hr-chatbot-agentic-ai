@@ -1,0 +1,20 @@
+# Core dependencies
+fastapi
+streamlit
+uvicorn
+pydantic
+requests
+python-dotenv
+
+# Redis
+redis
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+
+# Vector DB
+pinecone
+langchain-pinecone
